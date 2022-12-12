@@ -1,13 +1,16 @@
 Agggiornamento DigitechTiming BORINO-S
 
 Per aggiornare il firmware del cronometro sono necessari i seguenti elementi:
+
     • un cavo mini-USB.
     • un PC con sistema operativo Windows XP o superiore.
     • il programma di aggiornamento “Multi-Update_1v4.exe” o superiori.
     • il file “BORINO-S_XvX.hex”, dove “XvX” indica la versione dell'aggiornamento .
     
 Togliete le batterie dallo strumento.
+
 Collegate lo strumento al PC tramite il cavo mini-USB.
+
 Aspettare che il computer riconosca il nuovo hardware.
 Nel caso venga richiesto, installate i driver che trovate sul sito.
 Accedete il cronometro.
