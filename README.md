@@ -4,7 +4,7 @@ Per aggiornare il firmware del cronometro sono necessari i seguenti elementi:
 
     • un cavo mini-USB.
     • un PC con sistema operativo Windows XP o superiore.
-    • il programma di aggiornamento “DigiUpdater.exe” o superiori.
+    • il programma di aggiornamento “DigiUpdater.exe”.
     • il file “BORINO-S_XvX.hex”, dove “XvX” indica la versione dell'aggiornamento .
     
 Togliete le batterie dallo strumento.
